@@ -1,4 +1,4 @@
-# Peer-to-peer-Loan-management-system-
-We help connect users [ lenders] and  [borrowers ] across an online platform which facilitate the lending and borrowing steps providing users with the tools needed to manage and track loans process. 
+# Peer-to-peer-lending within Rwandan universities
+This is an online web based platform where students can be able to lend and borrow money between themselves.
 
-application is hosted on https://3anotaa.000webhostapp.com 
+
