@@ -149,7 +149,7 @@
                                             {!! Form::number('amount',null,[ 'required','id'=>'LendAmount'."$counter",'class'=>'form-control','oninput'=>"lendcal($counter)",'min'=>1,'max'=>($loan->amount)-(App\loanRequests::find($loan->id)->cashcollections() )]) !!}
                                             {!! Form::hidden('loan_id', $loan->id) !!}
                                              {!! Form::label('paymentmethod', 'Select Preferred payment method to Lend') !!}
-                                              {!! Form::select('paymentmethod',['Bank Transfer' => 'Bank Transfer', 'Meeting' => 'Meeting', 'Postal Office'=>'Postal Office','Other'=>'Other'],null,['placeholder' => 'Pick a Method..','required'],['class'=>'form-control']) !!}
+                                              {!! Form::select('paymentmethod',['Bank Transfer' => 'Bank Transfer', 'In-Person' => 'In-Person', 'Mobile Money'=>'Mobile Money','Other'=>'Other'],null,['placeholder' => 'Pick a Method..','required'],['class'=>'form-control']) !!}
                                                         {!! Form::hidden('payback') !!}
                                                     </div>
                                                     </div>
@@ -173,7 +173,7 @@
                                                 {!! Form::close() !!}
                                                 <a href="{{route('download')}}"> <button class="button button button-rounded button-red">Download Contract templatee</button> </a>
 
-                                                <p class="nobottommargin">Aenean lacinia bibendum nulla sed consectetur. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Donec sed odio dui. Donec ullamcorper nulla non metus auctor fringilla.</p>
+                                                <p class="nobottommargin">Terms and conditions applied.</p>
                                             </div>
                                         </div>
                                     </div>

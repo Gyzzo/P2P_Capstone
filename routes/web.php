@@ -37,7 +37,7 @@ Route::resource('profile','Profile');
 Route::get('profile{id}','Profile@show');
 
 
-Auth::routes();
+Auth::routes(['verify' => true]);
 
 Route::get('/dashboard', 'HomeController@index')->name('dashboard');
 
@@ -85,3 +85,7 @@ Route::get('Payback_Schedule_Update/{loanid}/{userid}','PaybackController@NewDea
 
 
 
+
+Auth::routes();
+
+Route::get('/home', 'HomeController@index')->name('home');

@@ -6,6 +6,7 @@ use App\rate;
 use Illuminate\Notifications\Notifiable;
 use Illuminate\Foundation\Auth\User as Authenticatable;
 use Illuminate\Database\Eloquent\Model;
+use Illuminate\Contracts\Auth\MustVerifyEmail;
 
 
 class Flight extends Model
@@ -15,7 +16,8 @@ class Flight extends Model
 }
 
 
-class User extends Authenticatable
+class User extends Authenticatable implements MustVerifyEmail
+
 {
     use Notifiable;
 

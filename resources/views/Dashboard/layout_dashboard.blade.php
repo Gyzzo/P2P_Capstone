@@ -48,7 +48,7 @@
                 <!-- Logo
                 ============================================= -->
                 <div id="logo" class="nobottomborder">
-                    <a href="" class="standard-logo"><img src="{{asset('images/logo 2.png')}}"  alt="3aNota Logo"></a>
+                    <a href="" class="standard-logo"><img src="{{asset('images/P2P Logo.png')}}"  alt="UniP2P Logo"></a>
                 </div><!-- #logo end -->
 
                 <!-- Primary Navigation
@@ -164,7 +164,7 @@
     <div id="copyrights">
         <div class="container-fluid center">
 
-            Copyrights &copy; 3aNota 2018 | All Rights Reserved
+            Copyrights &copy; UniP2P 2021 | All Rights Reserved
 
         </div>
     </div>

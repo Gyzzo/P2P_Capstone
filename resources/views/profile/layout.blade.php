@@ -49,7 +49,7 @@
                 <!-- Logo
                 ============================================= -->
                 <div id="logo">
-                    <img src="{{ URL::asset('/images/logo 2.png')}}" alt="3aNota Logo"></a>
+                    <img src="{{ URL::asset('/images/P2P Logo.png')}}" alt="UniP2P Logo"></a>
                 </div><!-- #logo end -->
 
                 <div id="top-account" class="dropdown">
@@ -103,7 +103,7 @@
         <div id="copyrights">
             <div class="container-fluid center">
 
-                Copyrights &copy; 3aNota 2018 | All Rights Reserved
+                Copyrights &copy; UniP2P 2018 | All Rights Reserved
 
             </div>
         </div>

@@ -206,9 +206,9 @@
 																		</div>
 																		{!! Form::submit( 'lend NOW',['class'=>'button button-3d button-rounded button-green']) !!}
 																		{!! Form::close() !!}
-																		<a href="{{route('download')}}"> <button class="button button button-rounded button-red">Download Contract templatee</button> </a>
+																		<a href="{{route('download')}}"> <button class="button button button-rounded button-red">Download Contract template</button> </a>
 
-																		<p class="nobottommargin">Aenean lacinia bibendum nulla sed consectetur. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Donec sed odio dui. Donec ullamcorper nulla non metus auctor fringilla.</p>
+																		<p class="nobottommargin">Terms and conditions applied.</p>
 																	</div>
 																</div>
 															</div>

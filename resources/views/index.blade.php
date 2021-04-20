@@ -81,7 +81,7 @@
 
 	<!-- Document Title
 	============================================= -->
-	<title>3aNota | Social Loans</title>
+	<title>P2P | Social Loans</title>
 
 </head>
 
@@ -142,7 +142,7 @@
 						 data-paddingbottom="[0,0,0,0]"
 						 data-paddingleft="[0,0,0,0]"
 
-						 style="z-index: 6; white-space: nowrap; font-size: 100px; line-height: 90px; font-weight: 900; color:black;font-family:'Poppins';letter-spacing:5px;">3aNota</div>
+						 style="z-index: 6; white-space: nowrap; font-size: 100px; line-height: 90px; font-weight: 900; color:black;font-family:'Poppins';letter-spacing:5px;">UniP2P</div>
 
 					<!-- LAYER NR. 3 -->
 					<div class="tp-caption   tp-resizeme"
@@ -164,7 +164,7 @@
 						 data-paddingbottom="[0,0,0,0]"
 						 data-paddingleft="[0,0,0,0]"
 
-						 style="z-index: 7; min-width: 460px; max-width: 460px; white-space: normal; font-size: 30px; line-height: 35px; font-weight: 800; color: Black;font-family:Poppins;letter-spacing:10px;">THE FIRST PEER TO PEER LENDING NETWORK IN EGYPT </div>
+						 style="z-index: 7; min-width: 460px; max-width: 460px; white-space: normal; font-size: 30px; line-height: 35px; font-weight: 800; color: Black;font-family:Poppins;letter-spacing:10px;">THE FIRST PEER TO PEER LENDING NETWORK WITHIN RWANDAN UNIVERSITIES </div>
 
 
 
@@ -191,7 +191,7 @@
 					<!-- Logo
 					============================================= -->
 					<div id="logo">
-						<a href="index.html" class="standard-logo" data-dark-logo="images/logo 2.png"><img src="images/logo 2.png" alt="3aNota Logo"></a>
+						<a href="index.html" class="standard-logo" data-dark-logo="images/P2P Logo.png"><img src="images/P2P Logo.png" alt="UniP2P Logo"></a>
 					</div><!-- #logo end -->
 
 					<!-- Primary Navigation
@@ -246,7 +246,7 @@
 								<div class="emphasis-title bottommargin-sm">
 
 									<h2 style="font-size: 42px;" class="font-body ls1 t400"> SPEED </h2>
-									<span class="before-heading">Fastest process to access unlimited amount of cash</span>
+									<span class="before-heading">Fastest process to access unlimited amount of cash for Universty students in Rwanda</span>
 								</div>
 								<p style="color: #777;" class="lead">Fastest process to access unlimited amount of cash with No legit guarantees or complicated procedures.</p>
 								<button data-toggle="modal" data-target=".speed" class="button button-border button-rounded button-fill fill-from-top button-yellow" section-more-link><span> Learn More <i class="icon-angle-right"></i> </span> </button>
@@ -269,9 +269,9 @@
 
 									<div class="modal-body">
 													<img src="images/section/speed.png"><br>
-												<b> The simplest and Fastest steps to get a loan </b>
+												<b> The simplest and Fastest steps to get a loan For University students in Rwanda</b>
 													<li> No more waiting for assessments and reviews </li>
-													<li>Fastest process to access unlimited amount of cash
+													<li>Fastest process to access unlimited amount of cash</li>
 													<li>No legit guarantees needed </li>
 													<li>No complicated requirements and procedures </li>
 									</div>
@@ -395,7 +395,7 @@
 									<div class="emphasis-title bottommargin-sm">
 
 										<h2 style="font-size: 42px;" class="font-body ls1 t400">EASE OF USE</h2>
-										<span class="before-heading"> simple steps to lend and borrow  </span>
+										<span class="before-heading"> simple steps to lend and borrow money </span>
 									</div>
 									<p style="color: #777;" class="lead">No need to leave your place request, receive and track all at one platform.</p>
 									<button data-toggle="modal" data-target=".ease" class="button button-border button-rounded button-fill fill-from-top button-teal" section-more-link><span> Learn More <i class="icon-angle-right"></i> </span> </button>
@@ -418,9 +418,9 @@
 
 										<div class="modal-body">
 											<img src="images/ease.png"><br>
-											<p> Just publish the loan request and all you network will see it , no need to call everyone ,
+											<p> Just publish the loan request and all your network will see it , no need to call everyone ,
 												also save visiting time for cash collection and payments as there will be different payment options
-												available that suit everyone. </p>
+												available that suit every student. </p>
 
 										</div>
 									</div>
@@ -436,7 +436,7 @@
 			<div class="section center nobottommargin nobg">
 				<div class="container clearfix">
 
-					<h3 class="ls1 t400" style="font-size: 32px;" id="Features">SERVICES AND FEATURES THAT YOU ARE GONNA LOVE </h3>
+					<h3 class="ls1 t400" style="font-size: 32px;" id="Features">SERVICES AND FEATURES THAT YOU WILL LOVE </h3>
 					@if(!Auth::user())
 					<a href="{{route('login')}}" class="button button-large button-green capitalize" style="border-radius: 23px;">Login Now</a>
 						<a href="{{ route('register') }}"  data-easing="easeInOutExpo" data-speed="1250" data-offset="160" class="button button-large button-blue capitalize" style="border-radius: 23px;">Register Now</a>
@@ -460,7 +460,7 @@
 									<div class="col-md-3 col-sm-4 col-xs-6">
 										<i class="i-large i-plain icon-group " style="color:black;"></i>
 										<div class="clear"></div>
-										<div class="counter counter-small" style="font-family:'Calibri', sans-serif; font-size: 25px; letter-spacing: 3px;"><span data-from="100" data-to="234833" data-refresh-interval="50" data-speed="2000"></span></div>
+										<div class="counter counter-small" style="font-family:'Calibri', sans-serif; font-size: 25px; letter-spacing: 3px;"><span data-from="100" data-to="12833" data-refresh-interval="50" data-speed="2000"></span></div>
 										<h5 style="font-size: 14px; color:black; margin-top: 3px;">Clients Served</h5>
 										<div class="visible-sm bottommargin-sm"></div>
 									</div>
@@ -469,21 +469,21 @@
 									<div class="col-md-3 col-sm-4 col-xs-6">
 										<i class="i-large i-plain icon-file-add" style="color:black;"></i>
 										<div class="clear"></div>
-										<div class="counter counter-small" style="font-family:'Calibri', sans-serif; font-size: 25px; letter-spacing: 3px;"><span data-from="100" data-to="234833" data-refresh-interval="50" data-speed="2000"></span></div>
+										<div class="counter counter-small" style="font-family:'Calibri', sans-serif; font-size: 25px; letter-spacing: 3px;"><span data-from="100" data-to="12833" data-refresh-interval="50" data-speed="2000"></span></div>
 										<h5 style="font-size: 14px; color:black; margin-top: 3px;">Loans Requested </h5>
 										<div class="visible-sm bottommargin-sm"></div>
 									</div>
 									<div class="col-md-3 col-sm-4 col-xs-6">
 										<i class="i-large i-plain icon-calculator" style="color:black;"></i>
 										<div class="clear"></div>
-										<div class="counter counter-small" style="font-family:'Calibri', sans-serif; font-size: 25px; letter-spacing: 3px;"><span data-from="100" data-to="234833" data-refresh-interval="50" data-speed="2000"></span></div>
+										<div class="counter counter-small" style="font-family:'Calibri', sans-serif; font-size: 25px; letter-spacing: 3px;"><span data-from="100" data-to="12833" data-refresh-interval="50" data-speed="2000"></span></div>
 										<h5 style="font-size: 14px; color:black; margin-top: 3px;">Average Loan</h5>
 										<div class="visible-sm bottommargin-sm"></div>
 									</div>
 									<div class="col-md-3 col-sm-4 col-xs-6">
 										<i class="i-large i-plain icon-money" style="color:black;"></i>
 										<div class="clear"></div>
-										<div class="counter counter-small" style="font-family:'Calibri', sans-serif; font-size: 25px; letter-spacing: 3px;"><span data-from="100" data-to="234833" data-refresh-interval="50" data-speed="2000"></span></div>
+										<div class="counter counter-small" style="font-family:'Calibri', sans-serif; font-size: 25px; letter-spacing: 3px;"><span data-from="100" data-to="12833" data-refresh-interval="50" data-speed="2000"></span></div>
 										<h5 style="font-size: 14px; color:black; margin-top: 3px;">Average Interest</h5>
 										<div class="visible-sm bottommargin-sm"></div>
 									</div>
@@ -516,9 +516,9 @@
 							<i class=" i-plain i-xlarge icon-group inline-block " style="color:black" ></i>							<div class="heading-block nobottomborder" style="margin-bottom: 15px;">
 								<h4 style="font-size: 16px;">No legit guarantee needed </h4>
 							</div>
-							<p class="" style="line-height: 26px;padding:initial ;">family and friends Social guarantee network , no legit guarantee needed to borrow cash
+							<p class="" style="line-height: 26px;padding:initial ;">Friends and Colleagues Social guarantee network , no legit guarantee needed to borrow cash
 								as we are using a new model based on “social guarantee” your trustworthy and credibility between your peers this will allow
-								you to borrow unlimited money  in the fastest way depending on your network and how they perceive you .</p>
+								you to borrow unlimited money  in the fastest way depending on your network and how they perceive you.</p>
 						</div>
 
 						<div class="col-md-6 center bottommargin">
@@ -526,13 +526,13 @@
 							<div class="heading-block nobottomborder" style="margin-bottom: 15px;">
 								<h4 style="font-size: 16px;">Flexible installment periods</h4>
 							</div>
-							<p class="" style="line-height: 26px;">Choose the period and payback amount the best fit your income or financial status .</p>
+							<p class="" style="line-height: 26px;">Choose the period and payback amount the best fit your income or financial status.</p>
 						</div>
 
 						<div class="col-md-6 center bottommargin"  >
 							<i class=" i-plain i-xlarge icon-line2-graph inline-block " style=" color:black" ></i>
 							<div class="heading-block nobottomborder" style="margin-bottom: 15px;">
-								<h4 style="font-size: 16px;">Flexible interest rate </h4>
+								<h4 style="font-size: 16px;">Flexible interest rate</h4>
 							</div>
 							<p style="line-height: 26px;padding-right:10px">The first of its kind peer to peer social lending platform that offer both interest
 								and interest free loans , choose interest amount that comfort you.  </p>
@@ -585,7 +585,7 @@
 
 						<div class="pricing-box best-price">
 							<div class="pricing-title">
-								<h3>3aNota</h3>
+								<h3>UniP2P</h3>
 								<span> <b> Flexible and Tailored for YOU </b> </span>
 							</div>
 							<div class="pricing-price">
@@ -681,24 +681,24 @@
 							<h2 class="center font-body bottommargin-lg">Frequently Asked Questions</h2>
 
 						<div class="col-md-6 col-sm-6 ">
-								<h4 class="font-body" style="margin-bottom:15px;">What types of people does 3aNota serve?</h4>
+								<h4 class="font-body" style="margin-bottom:15px;">What types of people does UniP2P serve?</h4>
 								<p>We help provide finance for the unbanked , For a large population that has no credit history,
 									and hence can’t access conventional financing from banks and other institutions.<br>
-									Trustworthy and credible individuals who love to help and support their peers to reach their goals by providing financing support.<br>
-									Borrower: people who need fast access to large amount of cash to meet . <br>
-									lenders: people who have excess cash money and want to help and  support their peers ,
-									we help them save their money with their trusted peers and get rewarded the more they contribute  .</p>
+									Trustworthy and credible individuals who love to help and support their peers and fellow students to reach their goals by providing financing support.<br>
+									Borrower: people who need fast access to small, medium and large amount of cash to meet . <br>
+									lenders: people who have excess cash money and want to help and  support their peers and fellow students,
+									we help them save their money with their trusted peers and get rewarded the more they contribute.</p>
 							</div>
 
 
 							<div class="col-md-6 col-sm-6">
-								<h4 class="font-body" style="margin-bottom:15px;">What are the risks involved with lending on 3aNota ?</h4>
-								<p>Contributors on 3aNota may face the risk that borrowers will default on their loans.
+								<h4 class="font-body" style="margin-bottom:15px;">What are the risks involved with lending on UniP2P ?</h4>
+								<p>Contributors on UniP2P may face the risk that borrowers will default on their loans.
 									This mean that Contributors may lose all or part of their money.</p>
 							</div>
 						<div class="line"></div>
 							<div class="col-md-6 col-sm-6 ">
-								<h4 class="font-body" style="margin-bottom:15px;">How can an lenders minimize the Default risk?</h4>
+								<h4 class="font-body" style="margin-bottom:15px;">How can lenders minimize the Default risk?</h4>
 								<p> We recommend lenders to diversify their cash across different borrowers to minimize risk.
 									if one spreads out their funds across several diverse requests,
 									if one request goes bad , the loss is minimal . <br>
@@ -712,7 +712,7 @@
 							<div class="col-md-6 col-sm-6 ">
 								<h4 class="font-body" style="margin-bottom:15px;"> what happens in the case of default? </h4>
 								<p>
-									In cases where a borrower defaults, the risk is borne by the lender only. <br>
+									In cases where a borrower defaults, the risk is born by the lender only. <br>
 										Lender will have the ability to use signed contracts (wasl amana) to start and take legal action if deemed relevant.<br>
 									<u>loans are backed by </u>
 										<li>postdated wasl amana for each monthly instalment </li>
@@ -727,7 +727,7 @@
 							</div>
 							<div class="col-md-6 col-sm-6 ">
 								<h4 class="font-body" style="margin-bottom:15px;">Does having a loan request on the platform necessarily mean that you will receive funding?</h4>
-								<p class="nobottommargin">No, publishing a loan request on 3aNota enables you to notify all your network
+								<p class="nobottommargin">No, publishing a loan request on UniP2P enables you to notify all your network
 									of your need but It does not guarantee that they will choose to lend you .</p>
 							</div>
 						<div class="line"></div>
@@ -808,11 +808,11 @@
 											<div class="sidebar col_last nobottommargin">
 
 												<address>
-													<strong>Headquarters:</strong><br>
-													Cairo Egypt<br>
+													<strong>Head Office:</strong><br>
+													Kigali - Rwanda<br>
 												</address>
 												<abbr title="Phone Number"><strong>Phone:</strong></abbr> <br>
-												<abbr title="Email Address"><strong>Email:</strong></abbr> info@3anota.com
+												<abbr title="Email Address"><strong>Email:</strong></abbr> info@unip2p.com
 
 
 												<div class="widget noborder notoppadding">
@@ -862,10 +862,10 @@
 							<div class="widget clearfix">
 								<div class="row clearfix">
 									<div class="col-md-8 bottommargin-sm clearfix" style="color:#888;">
-										<img src="images/footer-logo.png" alt="3aNota Logo" style="display: block;" class="bottommargin-sm">
-										<p> 3aNota is an Online Platform that connects borrowers with lenders creating a peer to peer lending network.
+										<img src="images/P2P Logo.png" alt="UniP2P Logo" style="display: block;" class="bottommargin-sm">
+										<p> UniP2P is an Online Platform that connects borrowers with lenders creating a peer to peer lending network.
                                             <br> We are Digitizing  the  process of lending and borrowing.
-                                            Join the biggest peer to peer Social lending network in Egypt NOW</p>
+                                            If you are a university student in Rwanda join the biggest peer to peer Social lending network in Rwanda NOW</p>
 
 
 									</div>
@@ -882,7 +882,7 @@
 										<h4>About Us</h4>
 
 										<ul>
-											<li><a href="http://codex.wordpress.org/">About 3aNota</a></li>
+											<li><a href="http://codex.wordpress.org/">About UniP2P</a></li>
 											<li><a href="http://wordpress.org/support/forum/requests-and-feedback"> Contact Us </a></li>
 											<li><a href="http://wordpress.org/extend/plugins/"> Blog </a></li>
                                             <li><a href="http://wordpress.org/extend/plugins/">Get A Loan</a></li>
@@ -922,7 +922,7 @@
 				<div class="container clearfix center">
 
 					<div class="col-md-12 ">
-						Copyrights &copy; 2018 All Rights Reserved by 3aNota Inc.<br>
+						Copyrights &copy; 2021 All Rights Reserved by UniP2P<br>
 						<div class="copyright-links"><a href="{{route('terms')}}">Terms of Use</a> / <a href="{{route('policy')}}}">Privacy Policy</a></div>
 					</div>
 				</div>

@@ -1,7 +1,6 @@
 <?php
 
 namespace App\Http\Controllers;
-
 use App\cashCollections;
 use App\loanRequests;
 use App\Notifications\DeadlineReminder;
@@ -20,7 +19,7 @@ class HomeController extends Controller
      */
     public function __construct()
     {
-        $this->middleware('auth');
+        $this->middleware(['auth', 'verified']);
     }
 
     /**
@@ -119,5 +118,3 @@ class HomeController extends Controller
 
 
 }
-
-

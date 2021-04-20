@@ -18,7 +18,7 @@
 
                     <h3>Don't have an Account? Register Now.</h3>
 
-                    <p>Join the biggest peer to peer lending network in Egypt </p>
+                    <p>Join the biggest peer to peer lending network in Rwanda </p>
 
                     <form id="register-form" name="register-form" class="nobottommargin" action="/signup" method="post">
 
